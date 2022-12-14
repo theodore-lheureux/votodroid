@@ -1,3 +1,6 @@
 [submodule "votodroid-server"]
 	path = votodroid-server
 	url = https://github.com/theodore-lheureux/votodroid-server.git
+[submodule "votodroid-android"]
+	path = votodroid-android
+	url = https://github.com/theodore-lheureux/votodroid-android.git
